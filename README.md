@@ -3,6 +3,8 @@
 <b>#Currency Conversion App</b>
 
 <b>Implementation Using Clean, MVVM Architecture and Jetpack Compose</b>
+
+<b>The conversion logic utilizes the Open Exchange API</b>
 <hr>
 
 <b>See the app in action:</b>
